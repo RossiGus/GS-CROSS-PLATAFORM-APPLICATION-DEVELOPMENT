@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "OrbitWatch",
+    "slug": "orbitwatch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "orbitwatch",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "backgroundColor": "#0A0E1A",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.fiap.orbitwatch"
+    },
+    "android": {
+      "package": "br.com.fiap.orbitwatch",
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
