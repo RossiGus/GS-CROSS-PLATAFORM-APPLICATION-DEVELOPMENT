@@ -1,11 +1,11 @@
-# 🛰️ OrbitWatch
+# OrbitWatch
 
 ### Plataforma de Análise Preditiva Espacial — Global Solution 2026.1 (FIAP)
 **Disciplina:** Cross-Platform Application Development
 
 ---
 
-## 📖 Descrição
+## Descrição
 
 OrbitWatch é um aplicativo mobile que simula uma central de monitoramento de missões espaciais.
 Ele reúne dashboards em tempo real para sensores, energia e comunicação, gera alertas
@@ -15,7 +15,7 @@ e da SpaceX, com modo escuro como padrão e integração com dados reais da ISS 
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 | Nome Complet   | RM        |
 |----------------|-----------|
@@ -24,7 +24,7 @@ e da SpaceX, com modo escuro como padrão e integração com dados reais da ISS 
 
 ---
 
-## 📱 Telas do Aplicativo
+## Telas do Aplicativo
 
 ### Home (Dashboard Principal)
 <img width="369" height="800" alt="home" src="https://github.com/user-attachments/assets/6f58afe3-29cc-4131-8743-f8cfdb44f026" />
@@ -58,7 +58,7 @@ Formulário controlado com validação: nome da missão, limiares ajustáveis, n
 
 ---
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - [x] Navegação com Expo Router (Tabs na raiz + Stack aninhada `/mission/[id]`)
 - [x] Ícones do `@expo/vector-icons` em todas as abas
@@ -121,7 +121,7 @@ Em seguida, escaneie o QR Code com o app **Expo Go** (Android/iOS) ou pressione 
 
 ## Vídeo de Demonstração
  
-**Link do vídeo:** _[inserir link do YouTube/Drive aqui]_
+**Link do vídeo:** https://youtube.com/shorts/b3Nd9rtcwuU?feature=share
  
 ## 📄 Licença
  
