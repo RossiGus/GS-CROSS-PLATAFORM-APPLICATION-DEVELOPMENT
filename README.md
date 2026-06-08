@@ -27,7 +27,7 @@ e da SpaceX, com modo escuro como padrão e integração com dados reais da ISS 
 ## 📱 Telas do Aplicativo
 
 ### Home (Dashboard Principal)
-<img width="720" height="800" alt="home" src="https://github.com/user-attachments/assets/6f58afe3-29cc-4131-8743-f8cfdb44f026" />
+<img width="369" height="800" alt="home" src="https://github.com/user-attachments/assets/6f58afe3-29cc-4131-8743-f8cfdb44f026" />
 ![Home](./assets/screenshots/home.jpeg)
 Status geral da missão, 4 métricas-chave, mini gráfico de temperatura e posição real da ISS via API externa.
 
