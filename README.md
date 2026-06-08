@@ -28,27 +28,26 @@ e da SpaceX, com modo escuro como padrão e integração com dados reais da ISS 
 
 ### Home (Dashboard Principal)
 <img width="369" height="800" alt="home" src="https://github.com/user-attachments/assets/6f58afe3-29cc-4131-8743-f8cfdb44f026" />
-![Home](./assets/screenshots/home.jpeg)
 Status geral da missão, 4 métricas-chave, mini gráfico de temperatura e posição real da ISS via API externa.
 
 ### Sensores
-![Sensores](./assets/screenshots/sensors.jpeg)
+<img width="369" height="800" alt="sensors" src="https://github.com/user-attachments/assets/76dc9fc0-957c-48c6-94e7-a22a2f65e189" />
 Gráfico de linha com três séries (temperatura, pressão, radiação) e indicadores de tendência por leitura.
 
 ### Energia
-![Energia](./assets/screenshots/energy.jpeg)
+<img width="369" height="800" alt="energy" src="https://github.com/user-attachments/assets/03ee7ff1-eb9d-42af-a036-70c65a63843c" />
 Consumo por subsistema em gráfico de barras, carga dos painéis solares e estimativa de autonomia em horas.
 
 ### Comunicação
-![Comunicação](./assets/screenshots/communication.jpeg)
+<img width="369" height="800" alt="communication" src="https://github.com/user-attachments/assets/b6f0dd59-af85-46a5-af97-7e1aeb69485f" />
 Latência em tempo real, gauge SVG de qualidade do sinal, status do link de telemetria e taxa de erro de pacotes.
 
 ### Alertas
-![Alertas](./assets/screenshots/alerts.jpeg)
+<img width="369" height="800" alt="alerts" src="https://github.com/user-attachments/assets/8f3d97e3-c919-4e1c-a8b4-939dacc693f4" />
 Lista ordenada por criticidade e tempo, badges coloridos por nível e botão para dispensar cada alerta.
 
 ### Configurações
-![Configurações](./assets/screenshots/settings.jpeg)
+<img width="369" height="800" alt="alerts" src="https://github.com/user-attachments/assets/17bff07e-15a4-4b64-835f-cff21d0cdab9" />
 Formulário controlado com validação: nome da missão, limiares ajustáveis, notificações, tema e chave de API da IA.
 
 ---
